@@ -15,33 +15,11 @@
 
 
 #  Amazing-Js-Projects
-### This project is a part of the following Open Source Program
+### This project is part of Hacktoberfest'21
+![Hacktoberfest](https://user-images.githubusercontent.com/59393136/135566614-5635902f-2907-4e01-8baf-3cb1b43a6b20.png)
+### This project was a part of the following Open Source Program
   
   ![Devincept](https://user-images.githubusercontent.com/56088741/123548852-1ef59d00-d784-11eb-8e39-255e0c3e97d5.gif)
-  
-  <h2>Levels & Points</h2>
-<table>
-  <tr>
-    <th>Level</th>
-    <th>Points</th> 
-  </tr>
-  <tr>
-    <td>Level 0</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>Level 1</td>
-    <td>10</td>
-  </tr>
-  <tr>
-    <td>Level 2</td>
-    <td>20</td>
-  </tr>
-  <tr>
-    <td>Level 3</td>
-    <td>40</td>
-  </tr>
-</table>
 
 
 >### Do you want to make project on JavaScript ? if yes then :point_down:	
@@ -58,9 +36,15 @@ HELLO FOLKS , <br><br>
 <hr>
 
 ## 🎥 Demo 
-#### GitHub Pages website for this repository : https://amazing-js-projects.netlify.app/
+#### Website for this repository : https://amazing-js-projects.netlify.app/
 ![frontendtemp](recording.gif)
 
+# Must Check These Repos Also
+- [Cool Front-End Templates ](https://github.com/arpit456jain/Cool-Front-End_Templates)
+- [Amazing Css effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+- [Amazing Js Projects](https://github.com/arpit456jain/Amazing-Js-Projects)
+- [Web-Development-Path-And-Resources](https://github.com/arpit456jain/Web-Development-Path-And-Resources)
+- [Open-Source-Programs](https://github.com/arpit456jain/Open-Source-Programs)
 <hr>
  
 ## 💻 Technologies
@@ -176,21 +160,13 @@ Now submit the pull request.
 <p align="center"><img src="http://www.gurpreetsaluja.com/wp-content/uploads/2016/05/always-keep-learning.png" width=30%></p>
 <hr>
 
- <h1 align=center> Project Admin ❤️ </h1>
+ <h1 align=center> Project Admins ❤️ </h1>
 <p align="center">
 <table>
   <tbody><tr>
- <td align="center"><a href="https://github.com/arpit456jain"><img alt="" src="https://avatars.githubusercontent.com/arpit456jain" width="100px;"><br><sub><b> Arpit Jain </b></sub></a><br><a href="https://github.com/arpit456jain/Cool-Front-End_Templates/commits?author=arpit456jain" title="Code">💻 </a></td> </a></td>
+     <td align="center"><a href="https://github.com/arpit456jain"><img alt="" src="https://avatars.githubusercontent.com/arpit456jain" width="100px;"><br><sub><b> Arpit Jain </b></sub></a><br></td> </a></td>
+     <td align="center"><a href="https://github.com/ankitapuri"><img alt="" src="https://avatars.githubusercontent.com/ankitapuri" width="100px;"><br><sub><b> Ankita Puri</b></sub></a><br></td></a></td>
 
-</tbody></table>
-
-<h1 align=center> Mentor 😃 </h1>
-<p align="center">
-
-<table>
-  <tbody><tr>
-    <td align="center"><a href="https://github.com/ankitapuri"><img alt="" src="https://avatars.githubusercontent.com/ankitapuri" width="100px;"><br><sub><b> Ankita Puri</b></sub></a><br></td></a></td>
-  </tr>
 </tbody></table>
 
 <h2 align=center> ✨ Contributors </h2>
@@ -213,6 +189,8 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 
 ## 💬Join Our CodeSmashers Community
 
-Join -  https://discord.gg/gtYUZQSjTt
+Join - https://discord.gg/gtYUZQSjTt
+
+Feel free to contribute to this repo.
 
 ### Show some ❤️&nbsp; by giving the star :star: to this repository!!
